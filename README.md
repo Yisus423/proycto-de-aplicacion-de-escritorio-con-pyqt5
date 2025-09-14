@@ -1,0 +1,1 @@
+# proycto-de-aplicacion-de-escritorio-con-pyqt5
